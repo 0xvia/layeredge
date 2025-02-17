@@ -108,3 +108,6 @@
 [23:20:06 | 17-02-2025] Last Claim Point: 16/02/2025 08:18:39
 [23:20:07 | 17-02-2025] ✅ Points claimed for 0xE0e01474a05bB8105444e0220E5ad52c98589c77
 [23:20:07 | 17-02-2025] 🚨 Failed to start node for 0xE0e01474a05bB8105444e0220E5ad52c98589c77: [object Object]
+[03:17:12 | 18-02-2025] Wallet Address: 0xE0e01474a05bB8105444e0220E5ad52c98589c77
+[03:17:12 | 18-02-2025] Node Points: 98696
+[03:17:12 | 18-02-2025] Last Claim Point: 17/02/2025 16:20:06
